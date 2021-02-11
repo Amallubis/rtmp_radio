@@ -1,0 +1,7 @@
+menjalankan Nginx : 
+
+    sudo /usr/local/nginx/sbin/nginx
+    
+menjalankan Service Radio:
+    ./sc_serv sc_serv.conf
+    
